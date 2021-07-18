@@ -21,7 +21,8 @@ try:
         packet.drop()
 
     print("\ncoded by @koushikk11\n")
-    print("Date: 18/07/2021")
+    print("Date: 18/07/2021\n")
+    print("Github: koushikfs\n")
     print("\nThis script will disconnect the target from internet while in arp-spoofing\n* Make sure arp-spoofer is running\n* Use -h for more\n")
     print("[+]adding iptables rules")
     queue = netfilterqueue.NetfilterQueue()
